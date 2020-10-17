@@ -5,5 +5,7 @@
 * 唱歌
 ```javascript
 console.log（'hello'）
+```
 
-
+![一张照骗](2.png)
+我的网站时[长安](https://baidu.com)
